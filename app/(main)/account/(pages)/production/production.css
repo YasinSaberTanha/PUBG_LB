@@ -1,0 +1,4 @@
+.production_article{
+    height: calc(100vh - 57px);
+    background-color: var(--background);
+}
